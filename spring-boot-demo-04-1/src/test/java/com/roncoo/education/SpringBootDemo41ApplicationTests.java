@@ -11,6 +11,7 @@ public class SpringBootDemo41ApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("测试git提交");
 	}
 
 }
