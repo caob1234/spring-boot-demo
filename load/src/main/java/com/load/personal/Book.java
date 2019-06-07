@@ -1,5 +1,7 @@
 package com.load.personal;
-
+/*
+* site:https://juejin.im/post/5cf51700f265da1bab299958?utm_source=gold_browser_extension#heading-8
+* */
 public class Book {
     static int amount = 112;
     int price = 110;
